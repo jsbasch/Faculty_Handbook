@@ -1,0 +1,21 @@
+---
+title: "Final Project"
+subtitle: "Due August 10th at 11:59 pm"
+---
+
+::: callout-important
+Assignments are also posted in myCourses. Please submit your assignment on myCourses.
+:::
+
+# Description
+
+**Points: 60**
+
+## **Project Options (Choose One)**
+
+1.  **Podcast Episode (5–7 minutes):** Explain a psychological concept with examples. Could also include video.
+2.  **Infographic:** Visually explain a major topic (e.g., stages of sleep, types of memory).
+3.  **Short Paper (2–3 pages double spaced):** Analyze a psychological issue or concept.
+4.  **Public Service Announcement:** Educate others on a disorder or mental health topic.
+
+## Rubric/Grading

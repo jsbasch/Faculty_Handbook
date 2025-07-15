@@ -1,0 +1,25 @@
+---
+title: "Course Overview"
+---
+
+This is the homepage for PSYC101 - Introduction to Psychology taught by Dr. Dustin Haraden in Summer 2025 at Rochester Institute of Technology. All course materials will be posted on this site.
+
+You can find the course syllabus [here](/course-syllabus) and the course schedule [here](/index).
+
+## Class Structure
+
+This course will be accelerated, but will also be self-paced (i.e., asynchronous). There will be set deadlines for various projects/assignments, but you are free to structure your time otherwise. There will be 6 total units that cover a brief introduction into various areas of psychology. Each topic will typically consist of:
+
+-   Brief Lectures
+-   Readings
+-   Assignment
+-   Content Quiz
+
+There will not be a final exam, but there will be a final project that will be due at the end of the semester.
+
+<br>
+
+## **License**
+
+[![Creative Commons License](https://licensebuttons.net/l/by-sa/4.0/88x31.png){alt="Creative Commons License"}](https://creativecommons.org/licenses/by-sa/4.0/)\
+This online work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/). Visit [here](https://github.com/dukestatsciintrods/blob/master/LICENSE.md) for more information about the license.

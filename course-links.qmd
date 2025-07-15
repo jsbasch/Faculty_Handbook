@@ -1,0 +1,9 @@
+---
+title: "Useful links"
+---
+
+|  |  |
+|------------------------|--------------------------------------------------------|
+| Lecture Recordings | 🔗 [Panopto](https://rit.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=eb8a9351-6e73-421c-8714-b2c7010a5920) |
+| Gradebook | 🔗 on [myCourses](https://mycourses.rit.edu/d2l/lms/grades/my_grades/main.d2l?ou=1155274) |
+| Textbook | 🔗 [Psychology 2e](https://openstax.org/details/books/psychology-2e) |

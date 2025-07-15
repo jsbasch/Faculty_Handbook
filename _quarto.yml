@@ -1,0 +1,90 @@
+project: 
+  type: website
+  
+params:
+  assign_points: 35  # Points to be consistent across all assignments
+
+website: 
+  page-navigation: true
+  title: "Website Template" 
+  site-url: "https://dharaden.github.io/site-template"
+  
+  repo-url: https://github.com/dharaden/site-template 
+  repo-actions: [issue]
+  
+  open-graph: true
+    
+  sidebar:
+    background: "#798b93"
+    logo: "images/logo.png"
+    pinned: true
+    align: center
+    
+    tools: 
+      - icon: file-play
+        href: https://youtube.com
+        text: "Videos"
+      - icon: person-fill
+        text: "myCourses"
+        menu: 
+          - text: Assignments
+            url: https://rit.edu
+          - text: Grades
+            url: https://rit.edu
+            
+
+    style: "docked"
+    search: true
+    collapse-level: 3
+    
+    
+    contents:
+      - section: "Course Information"
+        contents:
+          - href: index.qmd
+            text: Home
+          - href: course-overview.qmd
+            text: Overview
+          - href: course-syllabus.qmd
+            text: Syllabus
+          
+          - href: course-links.qmd
+            text: Useful links
+      - section: "Assignments"
+        contents:
+          - href: assignment/assignment-1.qmd
+            text: "1 Intro Video"
+          - href: assignment/assignment-2.qmd
+            text: "2 Sleep Tracking"
+          - href: assignment/assignment-3.qmd
+            text: "3 Mini-Experiment"
+          - href: assignment/assignment-4.qmd
+            text: "4 Development in Media"
+          - href: assignment/assignment-5.qmd
+            text: "5 Personality Test Drive"
+          - href: assignment/final-project.qmd
+            text: "Final Project"
+      - href: lectures.qmd
+        text: "Lecture Slides"
+        
+
+  page-footer:
+      right: "This page is built with ☕ and [Quarto](https://quarto.org/)."
+      left: "&copy; CC-By Dustin Haraden, 2025"
+      background: "#5d6d74"
+
+format:
+  html:
+    theme:
+      light: [cosmo, style/sta101.scss]
+      dark: [cosmo, style/sta101.scss, style/dark.scss]
+    linkcolor: "#798b93"
+    toc: true
+    code-copy: true
+    code-overflow: wrap
+    mainfont: "Atkinson Hyperlegible"
+
+execute:
+  freeze: auto
+
+editor: visual

@@ -1,0 +1,61 @@
+---
+title: "Assignment 4 - Development in Media"
+subtitle: "Due Sunday July 27th at 11:59 pm"
+---
+
+::: callout-important
+Assignments are posted in myCourses. Please submit your work there.
+:::
+
+## Description
+
+Movies, TV shows, books, and even TikToks often portray how people grow and change. But how accurate are these portrayals based on what you’re learning about developmental psychology? In this assignment, you’ll **analyze development in the media** to connect class concepts to real-world (or fictional) examples.
+
+**Points:** {{< var assign_points >}}
+
+#### **Instructions**
+
+-   **Choose Your Media Example:**
+
+    -   Select **one** of the following:
+
+        -   A **movie or TV show** that depicts a character’s development (e.g., Inside Out, Boyhood, Stranger Things, Big Mouth).
+
+        -   A **children’s book** that shows developmental milestones.
+
+        -   A **YouTube or TikTok video** focused on parenting, adolescence, or developmental changes.
+
+        -   Another approved media example relevant to lifespan development (send me a quick email if this is what you choose).
+
+-   **Watch or Review It Carefully:**
+
+    -   Take notes on **how it depicts a developmental stage, milestone, or issue.**
+
+-   **Write a Reflection (300–400 words):**
+
+    -   **Describe the media example** you chose (title, creator, brief summary). Include a link if possible.
+
+    -   Identify **at least two developmental psychology concepts or theories** you see in it (e.g., Piaget’s stages, Erikson’s psychosocial stages, attachment styles, parenting styles, adolescence identity development).
+
+    -   **Explain each concept clearly** and discuss how it shows up in the media example.
+
+    -   **Critique it:** Is the portrayal accurate or stereotyped? Why?
+
+    -   Share **any personal insights or questions** it raised about development.
+
+#### **Friendly Reminders**
+
+-   **Choose something that interests you** – your favorite show, a nostalgic children’s book, or a trending video.
+
+-   **Be specific.** Don’t just name a concept – explain it in your own words and analyze how it’s shown.
+
+-   **Keep it respectful.** Avoid sharing critiques in a way that insults creators or characters; focus on psychological analysis.
+
+### **Rubric (35 points total)**
+
+| Criteria | Points | Description |
+|----|----|----|
+| **Media Example & Description** | 5 | Clearly describes and identifies chosen media and the relevance to development. |
+| **Identification & Explanation of Concepts** | 15 | Accurately identifies at least two developmental concepts/theories and explains them clearly. |
+| **Analysis & Critique** | 10 | Thoughtfully critiques the accuracy of portrayals with examples and shows critical thinking. |
+| **Writing Quality & Clarity** | 5 | Well-organized, clear, and mostly free of  grammatical errors. |

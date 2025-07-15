@@ -1,0 +1,7 @@
+---
+title: "Template Home"
+---
+
+# Welcome
+
+Here is where your page's home page will be.

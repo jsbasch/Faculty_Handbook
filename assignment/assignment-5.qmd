@@ -1,0 +1,66 @@
+---
+title: "Assignment 5 - Personality Test Drive"
+subtitle: "Due Sunday August 3rd at 11:59 pm"
+---
+
+::: callout-important
+Assignments are posted in myCourses. Please submit your work there.
+:::
+
+## Description
+
+Personality psychology explores what makes each of us unique (or similar). In this assignment, you’ll **“test drive” personality assessments**, evaluate them critically, and connect your results to theories learned in class.
+
+Not all personality assessments are created equally. Some are built upon decades of research while others are less consistent and valid. You will compare 2 types of tests to one another.
+
+**Points:** {{< var assign_points >}}
+
+#### **Instructions**
+
+**Complete Two Assessments:**
+
+-    **First Assessment (Research background):**
+
+    -   Take a **Big Five Personality Test** (e.g., Open Psychometrics Big Five).
+
+-   **Second Assessment (Less Validated):**
+
+    -   Choose a less scientifically supported test such as:
+
+        -   **Myers-Briggs Type Indicator (MBTI)** (free version online)
+
+        -   **Enneagram Test** (free version online)
+
+        -   Another instructor-approved personality test lacking strong empirical support (send me an email with one you would like to use)
+
+**Record Your Results:**
+
+-   Note your Big Five scores (e.g., high in openness, low in neuroticism).
+
+-   Note your MBTI type, Enneagram number, or equivalent classification.
+
+**Write a Reflection (350–450 words):**
+
+-   **Describe both assessments** (what they measure, how they classify people).
+
+-   **Summarize your results** from each.
+
+-   **Compare and contrast** the two assessments:
+
+    -   How do their approaches differ?
+
+    -   Which felt more accurate to you, and why?
+
+    -   What are **strengths and weaknesses** of each based on course concepts and readings?
+
+    -   Reflect on **what this comparison teaches you about personality psychology and assessment validity.**
+
+### **Rubric (35 points total)**
+
+| Criteria | Points | Description |
+|----|----|----|
+| **Assessment Descriptions & Results** | 10 | Clearly describes both assessments, including what each measures, how it classifies people, and accurately summarizes personal results for both tests. Demonstrates understanding of assessment content and outcomes. |
+| **Comparison & Analysis** | 10 | Thoughtfully compares and contrasts the two assessments, addressing differences in approach, classification, scientific validity, and personal accuracy. Integrates course concepts (e.g., validity, reliability, trait theory) to support analysis. |
+| **Connection to Personality Theory** | 5 | Identifies and explains at least one relevant personality theory from class (e.g., trait theory, humanistic approach) and connects it effectively to the critique or analysis of one or both assessments. |
+| **Reflection & Personal Insight** | 5 | Provides meaningful and personal reflection on what was learned about personality assessment, self-perceptions, and scientific evaluation. Demonstrates critical thinking and self-awareness. |
+| **Writing Quality & Clarity** | 5 | Writing is well-organized, clear, and mostly free of grammatical or spelling errors. Uses professional and respectful language throughout. |

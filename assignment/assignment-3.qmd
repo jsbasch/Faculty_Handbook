@@ -1,0 +1,51 @@
+---
+title: "Assignment 3 - Mini Experiment"
+subtitle: "Due Sunday July 20th at 11:59 pm"
+---
+
+::: callout-important
+Assignments are posted in myCourses. Please submit your work there.
+:::
+
+## Description
+
+Have you ever trained a pet… or yourself? Conditioning is all around us! Think about times when you get hungry after you hear the microwave beep, or avoid something because you are afraid of it.
+
+In this assignment, you’ll **explore conditioning in a hands-on way** and see psychological principles in your daily routine.
+
+**Points:** {{< var assign_points >}}
+
+#### **Instructions**
+
+**Pick Your Approach:**
+
+-   🎶 **Classical Conditioning Example:** Pair a neutral stimulus with something meaningful. For instance, play a specific song before your coffee each morning and see if your mood or alertness changes when you hear the song later.
+
+-   🍫 **Operant Conditioning Example:** Set up a reward system. For example, give yourself a piece of chocolate or a five-minute TikTok break each time you finish a section of reading to see if it increases your study motivation.
+
+**Design Your Mini Experiment:**
+
+-   Decide **what behavior or reaction you want to observe or change.**
+
+-   Choose **your stimulus or reward/punishment.**
+
+-   Carry it out for **2–3 days** to gather some observations.
+
+**Write a Reflection (350-450 words):**
+
+-   Briefly **describe your experiment setup** and what you wanted to see happen
+
+-   Identify the psychological principle(s) you used (classical or operant conditioning) and define them
+
+-   Share **your results and whether your plan worked.** Did you start craving coffee just from the song? Did rewards boost your motivation?
+
+-   Reflect on **how this connects to Learning, Memory, or Cognition concepts.** Any challenges, surprises or new insights?
+
+[**Note**]{.underline}: You will submit at least one document that has the above information. You will be graded on the reflection so be sure to explain the experiment thoroughly (enough for it to be replicated), and provide thoughtful comments/reflections.
+
+### **Friendly Reminders**
+
+**Keep it ethical and safe:** no aversive stimuli or experimenting on others without their consent. Self-experiments or harmless conditioning are perfect here.
+
+\
+**Think creatively:** Music, scents, colors, apps, or food rewards can all be powerful in conditioning.
