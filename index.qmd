@@ -1,7 +1,9 @@
 ---
-title: "Template Home"
+title: "Psychology Department Faculty Handbook"
 ---
 
 # Welcome
 
-Here is where your page's home page will be.
+This handbook serves as a general reference for faculty in the Psychology Department for common topics related to being a faculty member at RIT. This is a living document and updates will be ongoing. If you see information in the handbook that is inaccurate or unclear, please let the department chair know so that the information can be revised.
+
+If you cannot find an answer here, a good rule of thumb is to use Google to search "rit" and your topic. This is the best way to navigate RIT's webpages.
